@@ -1,5 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,300;0,400;1,200&display=swap");
 
+.app {
+  font-family: "Poppins", sans-serif;
+}
+
 .banner-img {
   background: url("../image/background4.jpg");
   background-size: cover;
@@ -39,4 +43,28 @@
 
 .send {
   width: 100%;
+}
+
+.slides img {
+  filter: blur(6px);
+}
+
+.caption h3 {
+  color: rgb(0, 0, 0);
+  font-weight: 500;
+}
+
+.caption h5 {
+  color: #000;
+  font-weight: 300;
+}
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
 }

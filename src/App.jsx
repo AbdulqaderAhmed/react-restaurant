@@ -8,7 +8,7 @@ import Products from "./components/products/Products";
 
 function App() {
   return (
-    <div>
+    <div className="app">
       <Router>
         <Routes>
           <Route path="/" element={<Home />} />

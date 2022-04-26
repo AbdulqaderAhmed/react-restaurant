@@ -10,37 +10,31 @@ const Slider = () => {
         <li>
           <img src={pizza} />
           <div className="caption center-align">
-            <h3>This is our big Tagline!</h3>
-            <h5 className="light grey-text text-lighten-3">
-              Here's our small slogan.
+            <h3>This is our big Pizza!</h3>
+            <h5 className="light black-text ">
+              Here's our pizza with extra cheeze.
             </h5>
           </div>
         </li>
         <li>
           <img src={rice} />
           <div className="caption left-align">
-            <h3>Left Aligned Caption</h3>
-            <h5 className="light grey-text text-lighten-3">
-              Here's our small slogan.
-            </h5>
+            <h3>This is our rice!</h3>
+            <h5 className="light black-text ">Rice with chicken and spice.</h5>
           </div>
         </li>
         <li>
           <img src={burger} />
           <div className="caption right-align">
-            <h3>Right Aligned Caption</h3>
-            <h5 className="light grey-text text-lighten-3">
-              Here's our small slogan.
-            </h5>
+            <h3>This is our big Burger!</h3>
+            <h5 className="light black-text ">With extra chips.</h5>
           </div>
         </li>
         <li>
           <img src={rice} />
           <div className="caption center-align">
-            <h3>This is our big Tagline!</h3>
-            <h5 className="light grey-text text-lighten-3">
-              Here's our small slogan.
-            </h5>
+            <h3>This is our rice!</h3>
+            <h5 className="light black-text ">Rice with salad and spice.</h5>
           </div>
         </li>
       </ul>
