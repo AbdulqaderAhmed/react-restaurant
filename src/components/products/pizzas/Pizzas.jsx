@@ -5,7 +5,7 @@ const Pizzas = () => {
   return (
     <div className="row">
       <h3 className="left-align">Pizzas</h3>
-      <div class="col s12 m3">
+      <div class="col s12 m4">
         <div class="card">
           <div class="card-image">
             <img src={pizza} />
@@ -14,17 +14,17 @@ const Pizzas = () => {
             </a>
           </div>
           <div class="card-content">
-            <span class="card-title">pizza</span>
-            <p>
-              I am a very simple card. I am good at containing small bits of
-              information. I am convenient because I require little markup to
-              use effectively.
+            <p class="card-title">
+              Pizza
+              <small>(15 pecies)</small>
+              <small className="right">$10</small>
             </p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
           </div>
         </div>
       </div>
 
-      <div class="col s12 m3">
+      <div class="col s12 m4">
         <div class="card">
           <div class="card-image">
             <img src={pizza} />
@@ -33,17 +33,17 @@ const Pizzas = () => {
             </a>
           </div>
           <div class="card-content">
-            <span class="card-title">pizza</span>
-            <p>
-              I am a very simple card. I am good at containing small bits of
-              information. I am convenient because I require little markup to
-              use effectively.
+            <p class="card-title">
+              Pizza
+              <small>(15 pecies)</small>
+              <small className="right">$10</small>
             </p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
           </div>
         </div>
       </div>
 
-      <div class="col s12 m3">
+      <div class="col s12 m4">
         <div class="card">
           <div class="card-image">
             <img src={pizza} />
@@ -52,17 +52,17 @@ const Pizzas = () => {
             </a>
           </div>
           <div class="card-content">
-            <span class="card-title">pizza</span>
-            <p>
-              I am a very simple card. I am good at containing small bits of
-              information. I am convenient because I require little markup to
-              use effectively.
+            <p class="card-title">
+              Pizza
+              <small>(15 pecies)</small>
+              <small className="right">$10</small>
             </p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
           </div>
         </div>
       </div>
 
-      <div class="col s12 m3">
+      <div class="col s12 m4">
         <div class="card">
           <div class="card-image">
             <img src={pizza} />
@@ -71,17 +71,17 @@ const Pizzas = () => {
             </a>
           </div>
           <div class="card-content">
-            <span class="card-title">pizza</span>
-            <p>
-              I am a very simple card. I am good at containing small bits of
-              information. I am convenient because I require little markup to
-              use effectively.
+            <p class="card-title">
+              Pizza
+              <small>(15 pecies)</small>
+              <small className="right">$10</small>
             </p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
           </div>
         </div>
       </div>
 
-      <div class="col s12 m3">
+      <div class="col s12 m4">
         <div class="card">
           <div class="card-image">
             <img src={pizza} />
@@ -90,17 +90,17 @@ const Pizzas = () => {
             </a>
           </div>
           <div class="card-content">
-            <span class="card-title">pizza</span>
-            <p>
-              I am a very simple card. I am good at containing small bits of
-              information. I am convenient because I require little markup to
-              use effectively.
+            <p class="card-title">
+              Pizza
+              <small>(15 pecies)</small>
+              <small className="right">$10</small>
             </p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
           </div>
         </div>
       </div>
 
-      <div class="col s12 m3">
+      <div class="col s12 m4">
         <div class="card">
           <div class="card-image">
             <img src={pizza} />
@@ -109,12 +109,12 @@ const Pizzas = () => {
             </a>
           </div>
           <div class="card-content">
-            <span class="card-title">pizza</span>
-            <p>
-              I am a very simple card. I am good at containing small bits of
-              information. I am convenient because I require little markup to
-              use effectively.
+            <p class="card-title">
+              Pizza
+              <small>(15 pecies)</small>
+              <small className="right">$10</small>
             </p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
           </div>
         </div>
       </div>

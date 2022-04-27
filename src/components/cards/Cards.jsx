@@ -17,11 +17,15 @@ const Cards = () => {
               </a>
             </div>
             <div class="card-content">
-              <span class="card-title">Pizza</span>
+              <p class="card-title">
+                Pizza
+                <small>(15 pecies)</small>
+                <small className="right">$10</small>
+              </p>
               <p>
-                I am a very simple card. I am good at containing small bits of
-                information. I am convenient because I require little markup to
-                use effectively.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Laboriosam voluptate aliquam dolor debitis facere maiores culpa
+                exercitationem labore tenetur!
               </p>
             </div>
           </div>
@@ -36,11 +40,15 @@ const Cards = () => {
               </a>
             </div>
             <div className="card-content">
-              <span className="card-title">Rize with Meat</span>
+              <p className="card-title">
+                Rice
+                <small>(5 pecies)</small>
+                <small className="right">$15</small>
+              </p>
               <p>
-                I am a very simple card. I am good at containing small bits of
-                information. I am convenient because I require little markup to
-                use effectively.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Laboriosam voluptate aliquam dolor debitis facere maiores culpa
+                exercitationem labore tenetur!
               </p>
             </div>
           </div>
@@ -55,11 +63,15 @@ const Cards = () => {
               </a>
             </div>
             <div className="card-content">
-              <span className="card-title">Burger</span>
+              <p className="card-title">
+                Burger
+                <small>(9 pecies)</small>
+                <small className="right">$10</small>
+              </p>
               <p>
-                I am a very simple card. I am good at containing small bits of
-                information. I am convenient because I require little markup to
-                use effectively.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Laboriosam voluptate aliquam dolor debitis facere maiores culpa
+                exercitationem labore tenetur!
               </p>
             </div>
           </div>

@@ -5,7 +5,7 @@ const Burgers = () => {
   return (
     <div className="row">
       <h3 className="left-align">Burgers</h3>
-      <div class="col s12 m3">
+      <div class="col s12 m4">
         <div class="card">
           <div class="card-image">
             <img src={burger} />
@@ -14,17 +14,21 @@ const Burgers = () => {
             </a>
           </div>
           <div class="card-content">
-            <span class="card-title">burger</span>
+            <p className="card-title">
+              Burger
+              <small>(9 pecies)</small>
+              <small className="right">$10</small>
+            </p>
             <p>
-              I am a very simple card. I am good at containing small bits of
-              information. I am convenient because I require little markup to
-              use effectively.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit.
+              Laboriosam voluptate aliquam dolor debitis facere maiores culpa
+              exercitationem labore tenetur!.
             </p>
           </div>
         </div>
       </div>
 
-      <div class="col s12 m3">
+      <div class="col s12 m4">
         <div class="card">
           <div class="card-image">
             <img src={burger} />
@@ -33,17 +37,21 @@ const Burgers = () => {
             </a>
           </div>
           <div class="card-content">
-            <span class="card-title">burger</span>
+            <p className="card-title">
+              Burger
+              <small>(9 pecies)</small>
+              <small className="right">$10</small>
+            </p>
             <p>
-              I am a very simple card. I am good at containing small bits of
-              information. I am convenient because I require little markup to
-              use effectively.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit.
+              Laboriosam voluptate aliquam dolor debitis facere maiores culpa
+              exercitationem labore tenetur!.
             </p>
           </div>
         </div>
       </div>
 
-      <div class="col s12 m3">
+      <div class="col s12 m4">
         <div class="card">
           <div class="card-image">
             <img src={burger} />
@@ -52,17 +60,21 @@ const Burgers = () => {
             </a>
           </div>
           <div class="card-content">
-            <span class="card-title">burger</span>
+            <p className="card-title">
+              Burger
+              <small>(9 pecies)</small>
+              <small className="right">$10</small>
+            </p>
             <p>
-              I am a very simple card. I am good at containing small bits of
-              information. I am convenient because I require little markup to
-              use effectively.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit.
+              Laboriosam voluptate aliquam dolor debitis facere maiores culpa
+              exercitationem labore tenetur!.
             </p>
           </div>
         </div>
       </div>
 
-      <div class="col s12 m3">
+      <div class="col s12 m4">
         <div class="card">
           <div class="card-image">
             <img src={burger} />
@@ -71,17 +83,21 @@ const Burgers = () => {
             </a>
           </div>
           <div class="card-content">
-            <span class="card-title">burger</span>
+            <p className="card-title">
+              Burger
+              <small>(9 pecies)</small>
+              <small className="right">$10</small>
+            </p>
             <p>
-              I am a very simple card. I am good at containing small bits of
-              information. I am convenient because I require little markup to
-              use effectively.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit.
+              Laboriosam voluptate aliquam dolor debitis facere maiores culpa
+              exercitationem labore tenetur!.
             </p>
           </div>
         </div>
       </div>
 
-      <div class="col s12 m3">
+      <div class="col s12 m4">
         <div class="card">
           <div class="card-image">
             <img src={burger} />
@@ -90,17 +106,21 @@ const Burgers = () => {
             </a>
           </div>
           <div class="card-content">
-            <span class="card-title">burger</span>
+            <p className="card-title">
+              Burger
+              <small>(9 pecies)</small>
+              <small className="right">$10</small>
+            </p>
             <p>
-              I am a very simple card. I am good at containing small bits of
-              information. I am convenient because I require little markup to
-              use effectively.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit.
+              Laboriosam voluptate aliquam dolor debitis facere maiores culpa
+              exercitationem labore tenetur!.
             </p>
           </div>
         </div>
       </div>
 
-      <div class="col s12 m3">
+      <div class="col s12 m4">
         <div class="card">
           <div class="card-image">
             <img src={burger} />
@@ -109,11 +129,15 @@ const Burgers = () => {
             </a>
           </div>
           <div class="card-content">
-            <span class="card-title">burger</span>
+            <p className="card-title">
+              Burger
+              <small>(9 pecies)</small>
+              <small className="right">$10</small>
+            </p>
             <p>
-              I am a very simple card. I am good at containing small bits of
-              information. I am convenient because I require little markup to
-              use effectively.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit.
+              Laboriosam voluptate aliquam dolor debitis facere maiores culpa
+              exercitationem labore tenetur!.
             </p>
           </div>
         </div>

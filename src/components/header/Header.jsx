@@ -43,6 +43,7 @@ const Header = () => {
       </div>
 
       <ul className="sidenav" id="mobile-demo">
+        <div className="nav-image"></div>
         <li>
           <Link to="/">Home</Link>
         </li>

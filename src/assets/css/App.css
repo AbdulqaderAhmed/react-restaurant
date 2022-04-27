@@ -68,3 +68,14 @@ body {
 main {
   flex: 1 0 auto;
 }
+
+.card small {
+  font-size: 15px;
+}
+
+.black-text small {
+  font-size: medium;
+  display: block;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
